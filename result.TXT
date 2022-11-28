@@ -1,0 +1,19 @@
+Results
+
+n = 4, a = -1.0, b = 1.0
+
+The integral is calculated from -1.0 to 1.0.
+
+The value of integral is 2.350453
+
+9 coordinates:
+
+x0 = -1.0    y0 = 0.367879
+x1 = -0.75   y1 = 0.472367
+x2 = -0.5    y2 = 0.606531
+x3 = -0.25   y3 = 0.778801
+x4 = 0.0     y4 = 1.0
+x5 = 0.25    y5 = 1.284025
+x6 = 0.5     y6 = 1.648721
+x7 = 0.75    y7 = 2.117
+x8 = 1.0     y8 = 2.718282

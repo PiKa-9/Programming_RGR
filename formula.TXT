@@ -1,0 +1,12 @@
+Enter the number of partition segments:
+n = 4
+
+Enter a and b:
+a = -1
+b = 1.0
+
+Enter the formula for f(x):
+
+f(x) = e^x
+
+
